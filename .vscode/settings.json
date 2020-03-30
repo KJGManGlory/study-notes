@@ -1,0 +1,5 @@
+{
+    "pasteImage.path": "${currentFileDir}/images",
+    "pasteImage.basePath": "${currentFileDir}/images",
+    "pasteImage.defaultName": "YMMDDHHmmss"
+}
